@@ -9,7 +9,7 @@ Customer calls → VAPI answers → asks for product → server searches CStoreP
 2. Connect your GitHub repo (upload these files first)
 3. Set environment variables:
    - CSTORE_USERNAME = fifthstreet
-   - CSTORE_PASSWORD = your_password
+   - CSTORE_PASSWORD = Volco@2604
 4. Deploy!
 5. Copy your Render URL (e.g. https://cstore-phone-agent.onrender.com)
 
